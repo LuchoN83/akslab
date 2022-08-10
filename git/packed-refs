@@ -1,0 +1,23 @@
+# pack-refs with: peeled fully-peeled sorted 
+bd93c121d09ce670e384086aa239dd6c037b76c1 refs/remotes/origin/dependabot/npm_and_yarn/acorn-5.7.4
+595bb386cc5665381cc0bad02bab834882ac0711 refs/remotes/origin/dependabot/npm_and_yarn/angular/core-11.0.5
+99fb1fb877af32932ad3c1a30ac5f5804272de63 refs/remotes/origin/dependabot/npm_and_yarn/chownr-1.1.4
+68a4748198cf4202d766d3702dae2422b8ed603b refs/remotes/origin/dependabot/npm_and_yarn/dns-packet-1.3.4
+00600a1afdfe21e7b05d9173a33d97920a8cd0f7 refs/remotes/origin/dependabot/npm_and_yarn/elliptic-6.5.4
+84c3e73413fe7330be09809ac95de208abae7ebe refs/remotes/origin/dependabot/npm_and_yarn/follow-redirects-1.14.8
+47e3b90efe3977f196ae6a09124c2b59d649aad8 refs/remotes/origin/dependabot/npm_and_yarn/handlebars-4.7.7
+4ac1ad4b9289ebb377311f3e4e4408d26cdd1a43 refs/remotes/origin/dependabot/npm_and_yarn/hosted-git-info-2.8.9
+83c0a4028ff411bfb11d3e45b09844990dcc2350 refs/remotes/origin/dependabot/npm_and_yarn/http-proxy-1.18.1
+4eeb8e0d22258e757352fada61ea7e2d4f604e6d refs/remotes/origin/dependabot/npm_and_yarn/https-proxy-agent-2.2.4
+2bc3b521ece858778af1030989f67f6219e87b34 refs/remotes/origin/dependabot/npm_and_yarn/ini-1.3.7
+1437bb48b1e67437f87782584863c227d0565b14 refs/remotes/origin/dependabot/npm_and_yarn/karma-6.3.16
+9d111fb93d59486fed785f98bcf3bc30dae93726 refs/remotes/origin/dependabot/npm_and_yarn/lodash.mergewith-4.6.2
+d3433e4913e107b6564216bc4b8d050cfcd4211c refs/remotes/origin/dependabot/npm_and_yarn/node-sass-4.14.1
+dbd98da72ce262910374f3b1f1d92a9eaa09a6c2 refs/remotes/origin/dependabot/npm_and_yarn/path-parse-1.0.7
+a892f080fc9e290e48be0f283a9181c49bbc67fe refs/remotes/origin/dependabot/npm_and_yarn/tar-2.2.2
+6b20dd7cef238f1c03e4550c9661cdc115de2274 refs/remotes/origin/dependabot/npm_and_yarn/tree-kill-1.2.2
+73711f44587bf03bd6de7658f8bab678a1a3628a refs/remotes/origin/dependabot/npm_and_yarn/url-parse-1.5.10
+9e3a3617604e95018f45cb308085da60197c6ea7 refs/remotes/origin/dependabot/npm_and_yarn/webpack-subresource-integrity-1.5.1
+cec5ac536fc045f158aaf73da7ccd226d598f588 refs/remotes/origin/dependabot/npm_and_yarn/websocket-extensions-0.1.4
+aaf402171682d419384c4ae74fe25b07d387f111 refs/remotes/origin/dependabot/npm_and_yarn/y18n-3.2.2
+39eff2df7dc201ff153606fb3eb508897e51f408 refs/remotes/origin/master
